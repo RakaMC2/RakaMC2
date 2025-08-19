@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Indonesia, My Dream I Want To Be Pro Programmer And Investor</h3>
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rakachmc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cvrakastoreid@gmail.com) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rakachmc)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rakamc7)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cvrakastoreid@gmail.com) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakamc2&label=Profile%20views&color=0e75b6&style=flat" alt="rakamc2" /> </p>
 
