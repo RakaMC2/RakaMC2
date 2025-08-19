@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakamc2" alt="rakamc2" /></a> </p>
 
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 - 🔭 I’m currently working on [KeyCrates](https://github.com/RakaMC2/Crates-Add-ons)
 
 - 🌱 I’m currently learning **Frameworks**
