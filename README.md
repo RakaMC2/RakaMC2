@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm RakaMC</h1>
 </div class="Avatar-Images left-avatar">
    <img src="avatarHead.png" alt="Avatar Kiri">
+   <img src="avatarBody3.png" alt="Avatar Kanan">
 </div>
 
 <h3 align="center">A passionate frontend developer from Indonesia, My Dream I Want To Be Pro Programmer And Investor</h3>
