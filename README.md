@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RakaMC</h1>
-<img src="avatarBody3.png" alt="Minecraft Avatar" width="150" style="border-radius: 8px; margin-right: 20px; float: left;"/>
-<img src="avatarBody4.png" alt="Minecraft Avatar" width="150" style="border-radius: 8px; margin-right: 20px; float: right;"/>
-<img src="avatarHead.png" alt="Minecraft Avatar" width="150" style="border-radius: 8px; margin-right: 20px; float: left;"/>
+</div class="Avatar-Images left-avatar">
+   <img src="avatarHead.png" alt="Avatar Kiri">
+</div>
 
 <h3 align="center">A passionate frontend developer from Indonesia, My Dream I Want To Be Pro Programmer And Investor</h3>
 
