@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm RakaMC</h1>
 </div class="Avatar-Images left-avatar">
    <img src="avatarHead.png" alt="Avatar Kiri">
+   <h1 align"center">Full Body, Minecraft Skin Preview</h1>
    <img src="avatarBody3.png" alt="Avatar Kanan">
 </div>
 
