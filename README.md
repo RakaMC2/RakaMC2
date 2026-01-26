@@ -11,7 +11,7 @@
 
 <div align="center">📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=RakaMC2&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakaMC2&theme=tokyonight&hide_border=true" height="165" /></div>
 ---
 
