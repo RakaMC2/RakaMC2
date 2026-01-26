@@ -1,62 +1,195 @@
-<h1 align="center">Hi 👋, I'm RakaMC</h1>
-</div class="Avatar-Images left-avatar">
-   <img src="avatarHead.png" alt="Avatar Kiri">
-   <h1 align"center">Full Body, Minecraft Skin Preview</h1>
-   <img src="avatarBody4.png" alt="Avatar Kanan">
-</div>
+👋 Halo, Saya Raka
 
-<h3 align="center">A passionate frontend developer from Indonesia, My Dream I Want To Be Pro Programmer And Investor</h3>
+Developer yang fokus membangun aplikasi modern dengan performa tinggi, arsitektur bersih, dan humor secukupnya di commit message.
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rakachmc)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rakamc7)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cvrakastoreid@gmail.com) 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakamc2&label=Profile%20views&color=0e75b6&style=flat" alt="rakamc2" /> </p>
-
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
-<h3 align="center">My Currently Project</h3>
-
-- 🔭 I’m currently working on [KeyCrates](https://github.com/RakaMC2/Crates-Add-ons)
-
-- 🌱 I’m currently learning **Frameworks**
-
-- 👯 I’m looking to collaborate on [GlyphTools](- https://vinntzyyy.github.io/GlyphTools/)
-
-- 💬 Ask me about **react, collaboration, and anymore**
-
-- 📫 How to reach me **cvrakastoreid@gmail.com**
-
-- ⚡ Fun fact **I Think I Am Funny And Cool**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rakamc2&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rakamc2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakamc2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=rakamc2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rakamc2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🧱 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+👀 Preview Tampilan
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rakamc2&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+> Preview bersifat ilustratif. Implementasi aktual tergantung konfigurasi dan kebutuhan project.
+
+
+
+🎨 Frontend — JokoUI
+
+Layout clean, fokus ke konten utama
+
+Komponen reusable (Button, Modal, Table)
+
+Responsif dari mobile sampai desktop
+
+
+Mock UI (JokoUI-style)
+
+<Layout>
+  <Navbar title="Dashboard" />
+  <Grid columns="3">
+    <Card title="Users" value="1,240" />
+    <Card title="Revenue" value="Rp 12jt" />
+    <Card title="Status" value="Healthy" />
+  </Grid>
+</Layout>
+
+┌─────────────────────────────┐
+│  Navbar                     │
+├───────────────┬─────────────┤
+│  Sidebar      │  Dashboard  │
+│               │  Cards      │
+│               │  Charts     │
+└───────────────┴─────────────┘
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rakamc2&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⚙️ Backend — Prabogo Go Framework
+
+REST API terstruktur
+
+Middleware logging & auth
+
+Response JSON konsisten
+
+
+Contoh Endpoint (Prabogo)
+
+r.GET("/api/users", func(c *Context) {
+    users := service.GetUsers()
+    c.JSON(200, Response{
+        Status: "ok",
+        Data: users,
+    })
+})
+
+GET /api/users
+
+{
+  "status": "ok",
+  "data": [...]
+}
+
+
+---
+
+🗄️ Database — SawitDB
+
+Skema terstruktur
+
+Optimasi index
+
+Query fokus performa
+
+
+Contoh Skema SawitDB
+
+CREATE TABLE users (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(100),
+  email VARCHAR(150),
+  created_at TIMESTAMP
+);
+
+TABLE users
+---------------------
+id | name | email
+
+
+---
+
+🧱 Tech Stack
+
+🎨 Frontend
+
+JokoUI
+Framework UI yang ringan, responsif, dan tidak drama. Dipakai untuk membangun antarmuka yang cepat dipahami user dan tidak menyiksa developer.
+
+⚙️ Backend
+
+Prabogo Go Framework
+Framework berbasis Go untuk backend yang:
+
+Cepat (karena Go memang tidak suka menunggu)
+
+Concurrency-ready
+
+Cocok untuk service skala kecil sampai besar
+
+
+🗄️ Database
+
+SawitDB
+Database yang stabil, tahan banting, dan siap dipanen performanya. Digunakan untuk penyimpanan data terstruktur dengan fokus konsistensi dan efisiensi.
+
+
+---
+
+🧭 Diagram Arsitektur (Mermaid)
+
+flowchart LR
+    UI[JokoUI Frontend]
+    API[Prabogo Go Framework]
+    DB[SawitDB]
+
+    UI -->|HTTP/JSON| API
+    API -->|Query| DB
+
+
+---
+
+🏗️ Arsitektur Singkat
+
+[JokoUI]
+   ↓ API
+[Prabogo Go Framework]
+   ↓ Query
+[SawitDB]
+
+Frontend hanya peduli UX, backend fokus logika, database bekerja diam-diam tapi menentukan segalanya.
+
+
+---
+
+🚀 Prinsip Pengembangan
+
+Clean code > clever code
+Kode dibaca lebih sering daripada ditulis.
+
+Performance by design
+Bukan ditambal belakangan.
+
+Minimal tapi cukup
+Fitur ada alasannya, bukan sekadar ada.
+
+
+
+---
+
+📦 Contoh Use Case
+
+Web application
+
+REST API service
+
+Internal tools
+
+Project eksperimental (yang kadang jadi serius)
+
+
+
+---
+
+📫 Kontak
+
+Kalau ingin diskusi teknis, kolaborasi, atau debat ringan soal arsitektur:
+
+GitHub: https://github.com/RakaMC/
+
+Email: cvrakastoreid@gmail.com
+
+
+
+---
+
+> "Kalau bisa sederhana dan cepat, kenapa dibuat ribet."
