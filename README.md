@@ -1,195 +1,30 @@
-👋 Halo, Saya RakzVolt 
-
-Developer yang fokus membangun aplikasi modern dengan performa tinggi, arsitektur bersih, dan humor secukupnya di commit message.
-
-
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=180&section=header&text=Raka&fontSize=48&fontColor=ffffff" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Backend+Engineer;Go+%7C+API+%7C+Database;Build+systems+that+make+sense" /></div>
 ---
 
-🧱 Tech Stack
+<div align="center">🧰 Tech Stack
 
-👀 Preview Tampilan
-
-> Preview bersifat ilustratif. Implementasi aktual tergantung konfigurasi dan kebutuhan project.
-
-
-
-🎨 Frontend — JokoUI
-
-Layout clean, fokus ke konten utama
-
-Komponen reusable (Button, Modal, Table)
-
-Responsif dari mobile sampai desktop
-
-
-Mock UI (JokoUI-style)
-
-<Layout>
-  <Navbar title="Dashboard" />
-  <Grid columns="3">
-    <Card title="Users" value="1,240" />
-    <Card title="Revenue" value="Rp 12jt" />
-    <Card title="Status" value="Healthy" />
-  </Grid>
-</Layout>
-
-┌─────────────────────────────┐
-│  Navbar                     │
-├───────────────┬─────────────┤
-│  Sidebar      │  Dashboard  │
-│               │  Cards      │
-│               │  Charts     │
-└───────────────┴─────────────┘
-
-
+<img src="https://img.shields.io/badge/Frontend-JokoUI-0ea5e9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-Prabogo%20Go-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-SawitDB-f59e0b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></div>
 ---
 
-⚙️ Backend — Prabogo Go Framework
+<div align="center">📊 GitHub Stats
 
-REST API terstruktur
-
-Middleware logging & auth
-
-Response JSON konsisten
-
-
-Contoh Endpoint (Prabogo)
-
-r.GET("/api/users", func(c *Context) {
-    users := service.GetUsers()
-    c.JSON(200, Response{
-        Status: "ok",
-        Data: users,
-    })
-})
-
-GET /api/users
-
-{
-  "status": "ok",
-  "data": [...]
-}
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" height="165" /></div>
 ---
 
-🗄️ Database — SawitDB
-
-Skema terstruktur
-
-Optimasi index
-
-Query fokus performa
-
-
-Contoh Skema SawitDB
-
-CREATE TABLE users (
-  id SERIAL PRIMARY KEY,
-  name VARCHAR(100),
-  email VARCHAR(150),
-  created_at TIMESTAMP
-);
-
-TABLE users
----------------------
-id | name | email
-
-
----
-
-🧱 Tech Stack
-
-🎨 Frontend
-
-JokoUI
-Framework UI yang ringan, responsif, dan tidak drama. Dipakai untuk membangun antarmuka yang cepat dipahami user dan tidak menyiksa developer.
-
-⚙️ Backend
-
-Prabogo Go Framework
-Framework berbasis Go untuk backend yang:
-
-Cepat (karena Go memang tidak suka menunggu)
-
-Concurrency-ready
-
-Cocok untuk service skala kecil sampai besar
-
-
-🗄️ Database
-
-SawitDB
-Database yang stabil, tahan banting, dan siap dipanen performanya. Digunakan untuk penyimpanan data terstruktur dengan fokus konsistensi dan efisiensi.
-
-
----
-
-🧭 Diagram Arsitektur (Mermaid)
+<div align="center">🧭 Arsitektur Favorit
 
 flowchart LR
-    UI[JokoUI Frontend]
-    API[Prabogo Go Framework]
-    DB[SawitDB]
+  UI[JokoUI]
+  API[Prabogo Go]
+  DB[SawitDB]
 
-    UI -->|HTTP/JSON| API
-    API -->|Query| DB
+  UI -->|JSON| API --> DB
 
-
+</div>
 ---
 
-🏗️ Arsitektur Singkat
-
-[JokoUI]
-   ↓ API
-[Prabogo Go Framework]
-   ↓ Query
-[SawitDB]
-
-Frontend hanya peduli UX, backend fokus logika, database bekerja diam-diam tapi menentukan segalanya.
-
-
----
-
-🚀 Prinsip Pengembangan
-
-Clean code > clever code
-Kode dibaca lebih sering daripada ditulis.
-
-Performance by design
-Bukan ditambal belakangan.
-
-Minimal tapi cukup
-Fitur ada alasannya, bukan sekadar ada.
-
-
-
----
-
-📦 Contoh Use Case
-
-Web application
-
-REST API service
-
-Internal tools
-
-Project eksperimental (yang kadang jadi serius)
-
-
-
----
-
-📫 Kontak
-
-Kalau ingin diskusi teknis, kolaborasi, atau debat ringan soal arsitektur:
-
-GitHub: https://github.com/RakaMC2/
-
-Email: cvrakastoreid@gmail.com
-
-
-
----
-
-> "Kalau bisa sederhana dan cepat, kenapa dibuat ribet."
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:020617&height=120&section=footer&text=No+Buzzwords.+Just+Working+Systems.&fontSize=18&fontColor=94a3b8" /></div>
