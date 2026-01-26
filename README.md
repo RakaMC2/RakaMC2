@@ -1,4 +1,4 @@
-👋 Halo, Saya Raka
+👋 Halo, Saya RakzVolt 
 
 Developer yang fokus membangun aplikasi modern dengan performa tinggi, arsitektur bersih, dan humor secukupnya di commit message.
 
@@ -184,7 +184,7 @@ Project eksperimental (yang kadang jadi serius)
 
 Kalau ingin diskusi teknis, kolaborasi, atau debat ringan soal arsitektur:
 
-GitHub: https://github.com/RakaMC/
+GitHub: https://github.com/RakaMC2/
 
 Email: cvrakastoreid@gmail.com
 
