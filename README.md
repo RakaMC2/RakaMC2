@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=180&section=header&text=Raka&fontSize=48&fontColor=ffffff" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Backend+Engineer;Go+%7C+API+%7C+Database;Build+systems+that+make+sense" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=180&section=header&text=RakzVolt&fontSize=48&fontColor=ffffff" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Backend+Engineer;Go+%7C+API+%7C+Database;Build+systems+that+make+sense" /></div>
 ---
 
 <div align="center">🧰 Tech Stack
@@ -11,8 +11,8 @@
 
 <div align="center">📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" height="165" /></div>
+<img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakaMC2&theme=tokyonight&hide_border=true" height="165" /></div>
 ---
 
 <div align="center">🧭 Arsitektur Favorit
