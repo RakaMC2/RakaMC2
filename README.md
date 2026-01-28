@@ -25,7 +25,7 @@ flowchart LR<br>
   API[Prabogo Go]<br>
   DB[SawitDB]<br>
 
-  UI -->|JSON| API --> DB
+  UI --> |JSON|  API -->  DB
 
 </div>
 
