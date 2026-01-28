@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center">🧰 Tech Stack
+<div align="center">🧰 Tech Stack<br>
 
 <img src="https://img.shields.io/badge/Frontend-JokoUI-0ea5e9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Backend-Prabogo%20Go-22c55e?style=for-the-badge" />
@@ -11,14 +11,14 @@
 
 ---
 
-<div align="center">📊 GitHub Stats
+<div align="center">📊 GitHub Stats<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=RakaMC2&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakaMC2&theme=tokyonight&hide_border=true" height="165" /></div>
 
 ---
 
-<div align="center">🧭 Arsitektur Favorit
+<div align="center">🧭 Arsitektur Favorit<br>
 
 flowchart LR
   UI[JokoUI]
