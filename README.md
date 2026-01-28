@@ -20,10 +20,10 @@
 
 <div align="center">🧭 Arsitektur Favorit<br>
 
-flowchart LR
-  UI[JokoUI]
-  API[Prabogo Go]
-  DB[SawitDB]
+flowchart LR<br>
+  UI[JokoUI]<br>
+  API[Prabogo Go]<br>
+  DB[SawitDB]<br>
 
   UI -->|JSON| API --> DB
 
